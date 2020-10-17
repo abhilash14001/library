@@ -1,0 +1,18 @@
+[26-Mar-2020 09:18:06 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/kzmkvus3bz85/public_html/fenoza.in/library/admindashboard/books/barcode2/index.php on line 34
+[26-Mar-2020 09:18:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/kzmkvus3bz85/public_html/fenoza.in/library/admindashboard/books/barcode2/index.php on line 45
+[26-Mar-2020 15:02:02 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/kzmkvus3bz85/public_html/fenoza.in/library/admindashboard/books/barcode2/index.php on line 34
+[26-Mar-2020 15:02:57 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/kzmkvus3bz85/public_html/fenoza.in/library/admindashboard/books/barcode2/index.php on line 34
+[26-Mar-2020 15:02:58 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/kzmkvus3bz85/public_html/fenoza.in/library/admindashboard/books/barcode2/index.php on line 34
+[28-Mar-2020 09:10:00 Asia/Kolkata] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/kzmkvus3bz85/public_html/fenoza.in/library/admindashboard/books/barcode2/index.php on line 34
+[28-Mar-2020 09:10:00 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/kzmkvus3bz85/public_html/fenoza.in/library/admindashboard/books/barcode2/index.php on line 49
+[28-Mar-2020 09:10:00 Asia/Kolkata] PHP Notice:  Undefined variable: arrayBarcodes in /home/kzmkvus3bz85/public_html/fenoza.in/library/admindashboard/books/barcode2/index.php on line 125
+[29-Mar-2020 23:01:27 Asia/Kolkata] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/kzmkvus3bz85/public_html/install/library/admindashboard/books/barcode2/index.php on line 34
+[29-Mar-2020 23:01:27 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/kzmkvus3bz85/public_html/install/library/admindashboard/books/barcode2/index.php on line 49
+[29-Mar-2020 23:01:27 Asia/Kolkata] PHP Notice:  Undefined variable: arrayBarcodes in /home/kzmkvus3bz85/public_html/install/library/admindashboard/books/barcode2/index.php on line 125
+[29-Mar-2020 23:07:02 Asia/Kolkata] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/kzmkvus3bz85/public_html/install/library/admindashboard/books/barcode2/index.php on line 34
+[29-Mar-2020 23:07:02 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/kzmkvus3bz85/public_html/install/library/admindashboard/books/barcode2/index.php on line 49
+[29-Mar-2020 23:07:02 Asia/Kolkata] PHP Notice:  Undefined variable: arrayBarcodes in /home/kzmkvus3bz85/public_html/install/library/admindashboard/books/barcode2/index.php on line 125
+[29-Mar-2020 23:11:06 Asia/Kolkata] PHP Notice:  Undefined variable: arrayBarcodes in /home/kzmkvus3bz85/public_html/install/library/admindashboard/books/barcode2/index.php on line 125
+[29-Mar-2020 23:11:21 Asia/Kolkata] PHP Notice:  Undefined variable: arrayBarcodes in /home/kzmkvus3bz85/public_html/install/library/admindashboard/books/barcode2/index.php on line 125
+[30-Mar-2020 08:32:09 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/kzmkvus3bz85/public_html/install/library/admindashboard/include/config.php on line 21
+[30-Mar-2020 08:32:09 Asia/Kolkata] PHP Notice:  Undefined index: adminid in /home/kzmkvus3bz85/public_html/install/library/admindashboard/include/config.php on line 22

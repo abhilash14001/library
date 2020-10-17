@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {% include header.php %}
+  </head>
+  <body>
+    {% include skippy.php %}
+
+    {% include docs-navbar.php %}
+
+    {% if page.layout == "simple" or page.layout == "examples" %}
+      {{ content }}
+    {% else %}
+      <main id="content" role="main">
+        {{ content }}
+      </main>
+    {% endif %}
+
+    {% include footer.php %}
+    {% include scripts.php %}
+  </body>
+</html>

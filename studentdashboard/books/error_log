@@ -1,0 +1,94 @@
+[27-Mar-2020 19:11:26 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/reservebooks.php on line 7
+[27-Mar-2020 19:11:26 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/reservebooks.php on line 7
+[27-Mar-2020 22:30:06 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/booksreserved.php on line 21
+[28-Mar-2020 09:16:01 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/booksonloan.php on line 21
+[28-Mar-2020 09:17:46 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/booksonloan.php on line 21
+[28-Mar-2020 09:18:07 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/booksonloan.php on line 21
+[28-Mar-2020 09:19:02 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/booksonloan.php on line 21
+[28-Mar-2020 09:19:13 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/booksonloan.php on line 21
+[28-Mar-2020 09:20:16 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/config.php on line 23
+[28-Mar-2020 09:20:16 Asia/Kolkata] PHP Notice:  Undefined index: adminid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/config.php on line 24
+[28-Mar-2020 09:20:16 Asia/Kolkata] PHP Notice:  Undefined index: student in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/config.php on line 25
+[28-Mar-2020 09:20:16 Asia/Kolkata] PHP Notice:  Undefined index: student in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/header.php on line 58
+[28-Mar-2020 09:20:16 Asia/Kolkata] PHP Notice:  Undefined index: student in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/header.php on line 179
+[28-Mar-2020 09:20:16 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/booksonloan.php on line 21
+[28-Mar-2020 10:42:36 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/config.php on line 23
+[28-Mar-2020 10:42:36 Asia/Kolkata] PHP Notice:  Undefined index: adminid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/config.php on line 24
+[28-Mar-2020 10:42:36 Asia/Kolkata] PHP Notice:  Undefined index: student in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/config.php on line 25
+[28-Mar-2020 10:42:36 Asia/Kolkata] PHP Notice:  Undefined index: student in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/header.php on line 58
+[28-Mar-2020 10:42:36 Asia/Kolkata] PHP Notice:  Undefined index: student in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/header.php on line 179
+[28-Mar-2020 11:51:35 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/reservebooks.php on line 9
+[28-Mar-2020 11:51:36 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/reservebooks.php on line 16
+[28-Mar-2020 11:51:36 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/reservebooks.php on line 16
+[28-Mar-2020 11:51:55 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/reservebooks.php on line 9
+[28-Mar-2020 11:51:55 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/reservebooks.php on line 16
+[28-Mar-2020 11:51:55 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/reservebooks.php on line 16
+[28-Mar-2020 11:52:21 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/booksreserved.php on line 21
+[28-Mar-2020 11:52:42 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/reservebooks.php on line 9
+[28-Mar-2020 11:52:42 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/reservebooks.php on line 16
+[28-Mar-2020 11:52:42 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/reservebooks.php on line 16
+[28-Mar-2020 11:52:50 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/booksreserved.php on line 21
+[28-Mar-2020 11:53:00 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/booksonloan.php on line 21
+[28-Mar-2020 11:53:45 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/reservebooks.php on line 9
+[28-Mar-2020 11:53:45 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/reservebooks.php on line 16
+[28-Mar-2020 11:53:45 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/reservebooks.php on line 16
+[28-Mar-2020 11:54:03 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/booksreserved.php on line 21
+[28-Mar-2020 12:06:14 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/booksonloan.php on line 21
+[28-Mar-2020 12:11:22 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/reservebooks.php on line 9
+[28-Mar-2020 12:11:22 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/reservebooks.php on line 16
+[28-Mar-2020 12:11:22 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/reservebooks.php on line 16
+[28-Mar-2020 12:12:45 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/reservebooks.php on line 5
+[28-Mar-2020 12:12:45 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/reservebooks.php on line 10
+[28-Mar-2020 12:12:45 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/reservebooks.php on line 17
+[28-Mar-2020 12:12:45 Asia/Kolkata] PHP Notice:  Undefined variable: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/reservebooks.php on line 17
+[28-Mar-2020 12:13:38 Asia/Kolkata] PHP Notice:  Undefined index: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/config.php on line 26
+[28-Mar-2020 12:13:49 Asia/Kolkata] PHP Notice:  Undefined index: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/config.php on line 26
+[28-Mar-2020 12:14:19 Asia/Kolkata] PHP Notice:  Undefined index: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/config.php on line 26
+[28-Mar-2020 12:14:27 Asia/Kolkata] PHP Notice:  Undefined index: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/config.php on line 26
+[28-Mar-2020 12:16:18 Asia/Kolkata] PHP Notice:  Undefined index: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/config.php on line 26
+[28-Mar-2020 12:17:28 Asia/Kolkata] PHP Notice:  Undefined index: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/config.php on line 26
+[28-Mar-2020 12:21:47 Asia/Kolkata] PHP Notice:  Undefined index: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/config.php on line 26
+[28-Mar-2020 12:22:05 Asia/Kolkata] PHP Notice:  Undefined index: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/config.php on line 26
+[28-Mar-2020 12:22:09 Asia/Kolkata] PHP Notice:  Undefined index: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/config.php on line 26
+[28-Mar-2020 12:22:38 Asia/Kolkata] PHP Notice:  Undefined index: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/config.php on line 26
+[28-Mar-2020 12:23:03 Asia/Kolkata] PHP Notice:  Undefined index: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/config.php on line 26
+[28-Mar-2020 12:23:03 Asia/Kolkata] PHP Notice:  Undefined index: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/reservebooks.php on line 5
+[28-Mar-2020 12:24:39 Asia/Kolkata] PHP Notice:  Undefined index: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/config.php on line 26
+[28-Mar-2020 12:40:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getBookID() in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/booksreserved.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/booksreserved.php on line 56
+[28-Mar-2020 12:41:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getBookID() in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/booksreserved.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/books/booksreserved.php on line 56
+[28-Mar-2020 22:26:12 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/config.php on line 23
+[28-Mar-2020 22:26:12 Asia/Kolkata] PHP Notice:  Undefined index: adminid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/config.php on line 24
+[28-Mar-2020 22:26:12 Asia/Kolkata] PHP Notice:  Undefined index: student in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/config.php on line 25
+[28-Mar-2020 22:26:12 Asia/Kolkata] PHP Notice:  Undefined index: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/config.php on line 26
+[28-Mar-2020 22:26:12 Asia/Kolkata] PHP Notice:  Undefined index: student in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/header.php on line 58
+[28-Mar-2020 22:26:12 Asia/Kolkata] PHP Notice:  Undefined index: student in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/header.php on line 179
+[28-Mar-2020 22:26:21 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/config.php on line 23
+[28-Mar-2020 22:26:21 Asia/Kolkata] PHP Notice:  Undefined index: adminid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/config.php on line 24
+[28-Mar-2020 22:26:21 Asia/Kolkata] PHP Notice:  Undefined index: student in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/config.php on line 25
+[28-Mar-2020 22:26:21 Asia/Kolkata] PHP Notice:  Undefined index: studentid in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/config.php on line 26
+[28-Mar-2020 22:26:21 Asia/Kolkata] PHP Notice:  Undefined index: student in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/header.php on line 58
+[28-Mar-2020 22:26:22 Asia/Kolkata] PHP Notice:  Undefined index: student in /home/kzmkvus3bz85/public_html/fenoza.in/library/studentdashboard/include/header.php on line 179
+[30-Mar-2020 17:33:06 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/kzmkvus3bz85/public_html/install/library/studentdashboard/include/config.php on line 23
+[30-Mar-2020 17:33:06 Asia/Kolkata] PHP Notice:  Undefined index: adminid in /home/kzmkvus3bz85/public_html/install/library/studentdashboard/include/config.php on line 24
+[30-Mar-2020 17:33:06 Asia/Kolkata] PHP Notice:  Undefined index: student in /home/kzmkvus3bz85/public_html/install/library/studentdashboard/include/config.php on line 25
+[30-Mar-2020 17:33:06 Asia/Kolkata] PHP Notice:  Undefined index: studentid in /home/kzmkvus3bz85/public_html/install/library/studentdashboard/include/config.php on line 26
+[30-Mar-2020 17:33:06 Asia/Kolkata] PHP Notice:  Undefined index: student in /home/kzmkvus3bz85/public_html/install/library/studentdashboard/include/header.php on line 71
+[30-Mar-2020 17:33:06 Asia/Kolkata] PHP Notice:  Undefined index: student in /home/kzmkvus3bz85/public_html/install/library/studentdashboard/include/header.php on line 192
+[31-Mar-2020 08:34:58 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/kzmkvus3bz85/public_html/install/library/studentdashboard/include/config.php on line 23
+[31-Mar-2020 08:34:58 Asia/Kolkata] PHP Notice:  Undefined index: adminid in /home/kzmkvus3bz85/public_html/install/library/studentdashboard/include/config.php on line 24
+[31-Mar-2020 08:34:58 Asia/Kolkata] PHP Notice:  Undefined index: student in /home/kzmkvus3bz85/public_html/install/library/studentdashboard/include/config.php on line 25
+[31-Mar-2020 08:34:58 Asia/Kolkata] PHP Notice:  Undefined index: studentid in /home/kzmkvus3bz85/public_html/install/library/studentdashboard/include/config.php on line 26
+[31-Mar-2020 08:34:58 Asia/Kolkata] PHP Notice:  Undefined index: student in /home/kzmkvus3bz85/public_html/install/library/studentdashboard/include/header.php on line 74
+[31-Mar-2020 08:34:58 Asia/Kolkata] PHP Notice:  Undefined index: student in /home/kzmkvus3bz85/public_html/install/library/studentdashboard/include/header.php on line 195
+[31-Mar-2020 14:10:01 Asia/Kolkata] PHP Notice:  Undefined index: admin in /home/kzmkvus3bz85/public_html/install/library/studentdashboard/include/config.php on line 23
+[31-Mar-2020 14:10:01 Asia/Kolkata] PHP Notice:  Undefined index: adminid in /home/kzmkvus3bz85/public_html/install/library/studentdashboard/include/config.php on line 24
+[31-Mar-2020 14:10:01 Asia/Kolkata] PHP Notice:  Undefined index: student in /home/kzmkvus3bz85/public_html/install/library/studentdashboard/include/config.php on line 25
+[31-Mar-2020 14:10:01 Asia/Kolkata] PHP Notice:  Undefined index: studentid in /home/kzmkvus3bz85/public_html/install/library/studentdashboard/include/config.php on line 26
+[31-Mar-2020 14:10:01 Asia/Kolkata] PHP Notice:  Undefined index: student in /home/kzmkvus3bz85/public_html/install/library/studentdashboard/include/header.php on line 89
+[31-Mar-2020 14:10:01 Asia/Kolkata] PHP Notice:  Undefined index: student in /home/kzmkvus3bz85/public_html/install/library/studentdashboard/include/header.php on line 210
